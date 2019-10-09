@@ -26,10 +26,10 @@
   
 - FileStealer
   
-  - Open source
+  - Open source: YES
   
   - Free: YES
   
-  - Language
+  - Language: C#
   
 By iTrouble
